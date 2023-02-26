@@ -1,0 +1,15 @@
+* {
+    background-color:bisque;
+}
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
+
+.recipe {
+    font-size: 24px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+
